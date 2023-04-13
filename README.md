@@ -8,7 +8,7 @@ Below is the home page of the Gym website. if a user wants to join gym,he will b
 
 ![Screenshot 2023-03-18 114448](https://user-images.githubusercontent.com/120396646/231819560-5a014f5d-460f-4db7-b109-706b280a6b5a.png)
 
-Data from the user will be collected and stored into the database .Now the Gym owner will be able to verify the gym participants and their details which are stored in database.
+Data from the users will be collected and stored into the database .Now the Gym owner will be able to verify the gym participants and their details which are stored in database.
 
 ![Screenshot 2023-03-18 115507](https://user-images.githubusercontent.com/120396646/231819598-2d8ea49d-7d8e-4f42-9a28-d6308bb0a808.png)
 
